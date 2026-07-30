@@ -24,14 +24,17 @@ Turn one idea into one clear content Issue, then turn that Issue into one comple
 4. Create or resume the exact package defined by `references/output-contract.md`; never overwrite a successful stage silently.
 5. Research first. Preserve source URLs and separate facts, quotes, opinions, and inference.
 6. Produce title candidates, final copy, tags, and card plan. Apply the Humanizer-zh principles before visual generation.
-7. On a new visual direction, render one representative cover/sample and get user confirmation before the rest of the batch.
-8. Generate static assets with `AI_IMAGE_MODEL`; use deterministic HTML/card layout when the selected card workflow supports it. Static posts do not call `AI_VIDEO_MODEL`.
+7. On a new visual direction, render and refine the cover first. After approval, batch-render the remaining cards from the confirmed content map and visual template.
+8. For text-led opinion, educational, and business-analysis posts, default to deterministic HTML/CSS layout and export. Call `AI_IMAGE_MODEL` only when the approved visual plan explicitly requires a photo, illustration, or other generated asset. Static posts do not call `AI_VIDEO_MODEL`.
 9. Inspect every final image, complete `qa.md`, and update `manifest.md` truthfully to `ready`, `partial`, or `blocked`.
 10. Deliver file paths and unresolved risks. Stop before platform publishing.
 
 ## Hard rules
 
 - One Issue equals one post; a batch is a list of Issue numbers.
+- Build a source-to-card content map before deciding the final page count. When the user asks to preserve source material, limit edits to clarity, repetition, sentence breaks, and necessary explanation.
+- Inspect the real dimensions and layout system of user-provided visual references before deriving a template. Do not infer platform ratios or add unrequested visual complexity.
+- Keep body copy readable and uncropped. Minor overlap among decorative page numbers, rules, or accents is acceptable when it does not obscure content.
 - Use NewAPI for downstream text/image/video inference; never route directly to a vendor.
 - Do not fabricate sources, data, personal experience, screenshots, or successful outputs.
 - Missing credentials/model availability is `blocked`, not a reason to substitute an unapproved backend.
