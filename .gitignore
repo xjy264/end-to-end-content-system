@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.DS_Store
+.codex-log/
+*.log
+
+# Generated content may contain large or private local assets.
+projects/*/sources/private/
+projects/*/work/

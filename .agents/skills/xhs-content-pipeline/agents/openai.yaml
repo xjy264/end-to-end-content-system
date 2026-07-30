@@ -1,0 +1,4 @@
+interface:
+  display_name: "XHS Content Pipeline"
+  short_description: "从清晰的内容 Issue 生成完整小红书图文内容包"
+  default_prompt: "读取内容 Issue，按项目规则生成研究、文案、卡片和 QA 完整内容包。"

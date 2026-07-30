@@ -1,0 +1,33 @@
+name: 缺陷报告
+description: 报告流水线、内容包或模型调用中的可复现问题
+title: "缺陷："
+labels:
+  - ":hammer: p3-minor-bug"
+  - ":lady_beetle: bug"
+  - "need more info"
+body:
+  - type: textarea
+    id: symptom
+    attributes:
+      label: 问题现象
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 复现步骤
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 预期结果
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 日志与证据
+      description: 请先移除 Key、Token、Cookie 和私人素材。
+    validations:
+      required: false

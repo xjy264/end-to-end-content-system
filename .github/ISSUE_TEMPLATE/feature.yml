@@ -1,0 +1,27 @@
+name: 功能需求
+description: 改进内容流水线、模板、Skill 或工具能力
+title: "功能："
+labels:
+  - ":cake: p2-nice-to-have"
+  - ":sparkles: feature request"
+  - "scope: pipeline"
+  - "need discussion"
+body:
+  - type: textarea
+    id: background
+    attributes:
+      label: 背景与问题
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: 目标与边界
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 验收标准
+    validations:
+      required: true

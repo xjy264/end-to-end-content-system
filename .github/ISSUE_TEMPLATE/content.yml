@@ -1,0 +1,71 @@
+name: 内容想法
+description: 将一个清晰想法登记为可生产的图文内容 Issue
+title: "内容："
+labels:
+  - ":cake: p2-nice-to-have"
+  - "content batch"
+  - "scope: content"
+  - "need discussion"
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: 原始想法与创作动机
+      description: 为什么现在想做这篇内容？
+    validations:
+      required: true
+  - type: textarea
+    id: audience
+    attributes:
+      label: 目标受众及真实问题
+    validations:
+      required: true
+  - type: textarea
+    id: thesis
+    attributes:
+      label: 核心观点
+    validations:
+      required: true
+  - type: textarea
+    id: promise
+    attributes:
+      label: 内容承诺与期望反应
+    validations:
+      required: true
+  - type: textarea
+    id: materials
+    attributes:
+      label: 已有素材、个人经历和来源链接
+      description: 没有时明确填写“无”。
+    validations:
+      required: true
+  - type: textarea
+    id: research
+    attributes:
+      label: 待研究和待核实事实
+    validations:
+      required: true
+  - type: textarea
+    id: boundaries
+    attributes:
+      label: 禁止编造与表达边界
+    validations:
+      required: true
+  - type: textarea
+    id: style
+    attributes:
+      label: 语气和视觉偏好
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 交付物与验收标准
+      value: |
+        - [ ] research.md 完整且来源可追溯
+        - [ ] copy.md 包含最终标题、正文和标签
+        - [ ] cards/plan.md 与成品卡片一一对应
+        - [ ] cards/output/ 包含 1080 × 1440 PNG
+        - [ ] qa.md 已完成并记录遗留问题
+    validations:
+      required: true
