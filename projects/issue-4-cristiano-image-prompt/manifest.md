@@ -16,8 +16,8 @@
   - 3 个 `gpt-image-2` 候选原图（本地 `work/candidates/`）
   - 3 个 1080 × 1440 候选卡片预览（本地 `work/candidates/cards/`）
   - sources/user-prompt.md
-  - copy.md（最终文案与完整生成提示词）
-  - cards/plan.md（最终单卡规划）
+  - copy.md（最终帖子文字、完整生成提示词与教学）
+  - cards/plan.md（最终单图规划）
   - cards/output/xhs-01-cover.png
   - qa.md（最终视觉检查）
 - Failures:
@@ -26,5 +26,5 @@
   - 请求尺寸均为 1024 × 1536；候选 B、C 实际返回 864 × 1821，说明当前接口没有稳定遵循尺寸参数。
   - 候选 C 出现可见品牌勾形标识，违反无 Logo 约束，当前只能作为失败样例，选中该方向后必须重新生成或编辑。
   - 用户提供模板的完整填充版与多个质量/尺寸组合连续 6 次返回网关 524；保持 `gpt-image-2` 不变，压缩为同结构的可执行提示词后成功。
-- Next action: 等待 PR Review；内容平台发布保持在当前范围之外。
+- Next action: 等待更新后的 PR Review；内容平台发布保持在当前范围之外。
 - Last verified at: 2026-07-31 Asia/Taipei
