@@ -12,11 +12,13 @@ A content Issue is ready only when every section below has a concrete answer or 
 6. 待研究和待核实事实
 7. 禁止编造与表达边界
 8. 语气和视觉偏好
-9. 交付物与验收标准
+9. 交付结构：内容类型、最终图片数量与职责、配文区块、标签、CTA、平台操作边界
+10. 交付物与验收标准
 
 ## Creation gate
 
 - Draft the complete Issue in chat first.
 - Ask the user to confirm the wording.
+- Freeze the delivery structure before production. If later feedback changes it, update the Issue and package contract before continuing.
 - Create the Issue with exactly one priority label, `content batch`, relevant scopes, `need discussion` or `ready for production`, and the current GitHub user as assignee.
 - One idea per Issue. Split unrelated ideas before creation.

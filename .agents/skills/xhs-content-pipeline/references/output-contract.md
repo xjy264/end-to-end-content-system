@@ -30,15 +30,15 @@ Record the Issue URL, current stage, completed files, model IDs, branch, pull re
 
 ## Deliverable definitions
 
-- `brief.md`: frozen audience, goal, angle, tone, boundaries, assumptions.
+- `brief.md`: frozen audience, goal, angle, tone, boundaries, assumptions, and delivery structure (content type, image count and roles, caption sections, optional tags/CTA, platform-operation boundary, selected template ID/status).
 - `research.md`: claims with source mapping; separate fact, quote, opinion, inference.
-- `copy.md`: title candidates, selected title, body, tags, CTA if applicable.
+- `copy.md`: title candidates, selected title, body, optional tags, and optional CTA. Record `无` when tags or CTA are explicitly omitted.
 - `content-map.md`: source-to-card mapping for every retained, merged, lightly edited, or removed core point.
 - `cards/plan.md`: cover hook plus one core message per page and evidence source.
 - `cards/html/`: reproducible HTML/CSS sources when the HTML route is used.
 - `cards/output/`: `1080x1440` PNG files named `xhs-01-cover.png`, `xhs-02-<slug>.png`, and so on.
 - `cards/output/preview-grid.png` and `cards/output/preview-mobile.png`: overview and mobile-readability previews.
 - `generation-log.md`: renderer, model calls, generated files, and verification timestamp.
-- `qa.md`: source, copy, mobile readability, dimensions, crop, consistency, and package checks.
+- `qa.md`: source, copy, delivery-structure match, image/caption responsibility, template status, mobile readability, dimensions, crop, consistency, and package checks.
 
 Never mark `ready` before every required file exists, every final image has been visually inspected, and the complete formal package has been pushed to the pull request branch.
