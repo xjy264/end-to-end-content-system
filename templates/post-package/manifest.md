@@ -1,6 +1,10 @@
 # Manifest
 
 - Issue:
+- Branch:
+- PR URL:
+- Remote commit:
+- Repository status: untracked
 - Status: planning
 - Current stage: brief
 - Models:
