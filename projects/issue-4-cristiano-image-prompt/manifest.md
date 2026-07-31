@@ -1,0 +1,30 @@
+# Manifest
+
+- Issue: https://github.com/xjy264/end-to-end-content-system/issues/4
+- Status: ready
+- Current stage: delivery
+- Models:
+  - text: gpt-5.6-sol
+  - image: gpt-image-2
+  - video: doubao-seedance-2-0-260128 (not used)
+- Completed files:
+  - brief.md
+  - sources/reference.md
+  - research.md (candidate plan)
+  - copy.md (draft)
+  - cards/plan.md (draft)
+  - 3 个 `gpt-image-2` 候选原图（本地 `work/candidates/`）
+  - 3 个 1080 × 1440 候选卡片预览（本地 `work/candidates/cards/`）
+  - sources/user-prompt.md
+  - copy.md（最终文案与完整生成提示词）
+  - cards/plan.md（最终单卡规划）
+  - cards/output/xhs-01-cover.png
+  - qa.md（最终视觉检查）
+- Failures:
+  - `gpt-5.6-sol` 写作请求先后返回 HTTP 403 与 429；未切换模型，候选设计暂由顶层 Codex 完成。
+  - 候选 B 的 `high` 质量请求连续两次返回网关 524；保持 `gpt-image-2` 不变，改用 `medium` 后成功。
+  - 请求尺寸均为 1024 × 1536；候选 B、C 实际返回 864 × 1821，说明当前接口没有稳定遵循尺寸参数。
+  - 候选 C 出现可见品牌勾形标识，违反无 Logo 约束，当前只能作为失败样例，选中该方向后必须重新生成或编辑。
+  - 用户提供模板的完整填充版与多个质量/尺寸组合连续 6 次返回网关 524；保持 `gpt-image-2` 不变，压缩为同结构的可执行提示词后成功。
+- Next action: 等待 PR Review；内容平台发布保持在当前范围之外。
+- Last verified at: 2026-07-31 Asia/Taipei
