@@ -13,7 +13,7 @@ AI_VIDEO_MODEL=doubao-seedance-2-0-260128
 ## Roles
 
 - `AI_TEXT_MODEL`: research synthesis, writing, Humanizer pass, visual review reasoning.
-- `AI_IMAGE_MODEL`: cover and illustration assets.
+- `AI_IMAGE_MODEL`: only approved cover, photo, illustration, or other generated visual assets; text-led card layout stays on the deterministic HTML/CSS route.
 - `AI_VIDEO_MODEL`: future motion/video work only; exclude from the default static pipeline.
 
 ## Preflight
