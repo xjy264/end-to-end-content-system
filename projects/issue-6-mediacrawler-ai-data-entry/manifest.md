@@ -5,13 +5,13 @@
 - 当前阶段：`ready`
 - 状态：`ready`
 - 下游文本模型：未调用；研究与写作由 Codex 基于可追溯来源完成
-- 下游图片模型：未调用；四张卡片采用确定性 HTML/CSS 渲染
+- 下游图片模型：未调用；三张卡片采用确定性 HTML/CSS 渲染
 - 下游视频模型：未调用；静态图文不进入视频链路
-- 已完成：`brief.md`、`sources/mediacrawler-source-map.md`、`sources/visual-reference.md`、`research.md`、`copy.md`、四卡 `cards/plan.md`、四张最终 PNG、逐张视觉检查、手机缩略图检查、`qa.md`
+- 已完成：研究与来源核验、三卡 `brief.md` 与 `cards/plan.md`、结果导向配文、三张最终 PNG、逐张原图检查、手机缩略图与三图总览检查、`qa.md`
 - 待完成：无
 - 失败项：无
-- 下一步：等待用户审阅内容包
-- 最后核验时间：2026-07-31T11:31:57+08:00
+- 下一步：等待用户审阅三图内容包
+- 最后核验时间：2026-07-31T11:58:43+08:00
 
 ## 交付路径
 
@@ -21,5 +21,4 @@
   - `cards/output/xhs-01-cover.png`
   - `cards/output/xhs-02-capabilities.png`
   - `cards/output/xhs-03-ai-workflow.png`
-  - `cards/output/xhs-04-boundaries.png`
 - 质量检查：`qa.md`
