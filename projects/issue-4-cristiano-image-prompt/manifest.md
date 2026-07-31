@@ -16,7 +16,7 @@
   - 3 个 `gpt-image-2` 候选原图（本地 `work/candidates/`）
   - 3 个 1080 × 1440 候选卡片预览（本地 `work/candidates/cards/`）
   - sources/user-prompt.md
-  - copy.md（最终帖子文字、完整生成提示词与教学）
+  - copy.md（平台标题；仅含完整提示词与写法教学的帖子正文）
   - cards/plan.md（最终单图规划）
   - cards/output/xhs-01-cover.png
   - qa.md（最终视觉检查）
