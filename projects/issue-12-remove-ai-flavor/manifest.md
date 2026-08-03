@@ -1,0 +1,28 @@
+# Manifest
+
+- Issue: https://github.com/xjy264/end-to-end-content-system/issues/12
+- Branch: codex/12-remove-ai-flavor
+- PR URL:
+- Remote commit:
+- Repository status: working tree changes
+- Status: reviewing
+- Current stage: final QA
+- Models:
+  - text: gpt-5.6-sol
+  - image: gpt-image-2
+  - video: not used
+- Completed files:
+  - brief.md
+  - sources/source-notes.md
+  - sources/visual-references.md
+  - research.md
+  - copy.md
+  - content-map.md
+  - cards/plan.md
+  - cards/output/xhs-01-cover.png
+  - cards/output/preview-mobile.png
+  - cards/output/preview-grid.png
+  - generation-log.md
+- Failures: []
+- Next action: complete local QA, commit, push, create PR, then record remote proof
+- Last verified at: 2026-08-03T08:09:53Z
