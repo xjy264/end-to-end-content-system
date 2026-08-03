@@ -2,11 +2,11 @@
 
 - Issue: https://github.com/xjy264/end-to-end-content-system/issues/12
 - Branch: codex/12-remove-ai-flavor
-- PR URL:
-- Remote commit:
-- Repository status: working tree changes
-- Status: reviewing
-- Current stage: final QA
+- PR URL: https://github.com/xjy264/end-to-end-content-system/pull/14
+- Remote commit: e64223ac846962452e1f98fbb2cd87d339ea1ebf
+- Repository status: package tracked; remote task branch pushed; PR #14 open to main
+- Status: ready
+- Current stage: ready for review
 - Models:
   - text: gpt-5.6-sol
   - image: gpt-image-2
@@ -23,6 +23,7 @@
   - cards/output/preview-mobile.png
   - cards/output/preview-grid.png
   - generation-log.md
+  - qa.md
 - Failures: []
-- Next action: complete local QA, commit, push, create PR, then record remote proof
-- Last verified at: 2026-08-03T08:09:53Z
+- Next action: wait for PR review; do not merge or publish automatically
+- Last verified at: 2026-08-03T08:15:55Z
