@@ -1,0 +1,30 @@
+# Manifest
+
+- Issue: https://github.com/xjy264/end-to-end-content-system/issues/15
+- Branch: codex/15-image-first-ui
+- PR URL:
+- Remote commit:
+- Repository status: untracked cover sample
+- Status: reviewing
+- Current stage: repository delivery
+- Models:
+  - text: 未调用；Codex 依据已确认正文和来源完成整理
+  - image: 未调用；封面采用确定性 HTML/CSS
+  - video: 未调用
+- Completed files:
+  - brief.md
+  - sources/taste-skill-readme.md
+  - sources/visual-references.md
+  - research.md
+  - copy.md
+  - content-map.md
+  - cards/plan.md
+  - cards/html/xhs-01-cover.html
+  - cards/output/xhs-01-cover.png
+  - cards/output/preview-grid.png
+  - cards/output/preview-mobile.png
+  - generation-log.md
+  - qa.md
+- Failures: []
+- Next action: 提交、推送并创建 PR
+- Last verified at: 2026-08-05
