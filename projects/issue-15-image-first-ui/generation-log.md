@@ -34,3 +34,8 @@
 - Draft readback: 标题匹配，保存时间 `2026-08-05 15:06:46`
 - Storage note: 平台提示草稿保存在当前浏览器本地
 - Verified at: 2026-08-05T15:07:47+07:00
+
+## Pull request update
+
+- PR #16 已进入 `staging`。
+- 最新草稿交付记录使用目标为 `main` 的 PR #19：https://github.com/xjy264/end-to-end-content-system/pull/19

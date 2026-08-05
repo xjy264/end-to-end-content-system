@@ -2,7 +2,7 @@
 
 - Issue: https://github.com/xjy264/end-to-end-content-system/issues/15
 - Branch: codex/15-image-first-ui
-- PR URL: https://github.com/xjy264/end-to-end-content-system/pull/16
+- PR URL: https://github.com/xjy264/end-to-end-content-system/pull/19
 - Remote commit: 4f1c99683a951d9c4f3fdc76b1eb9da585d5fa42
 - Repository status: tracked and pushed
 - Status: ready
