@@ -39,3 +39,12 @@
 
 - PR #16 已进入 `staging`。
 - 最新草稿交付记录使用目标为 `main` 的 PR #19：https://github.com/xjy264/end-to-end-content-system/pull/19
+
+## Platform draft rewrite
+
+- Reason: 用户反馈草稿未显示，按原载荷重新写入当前 Chrome 草稿箱。
+- Platform result: `保存成功`
+- Draft readback: `图文笔记(2)`，最新标题匹配，封面缩略图可见。
+- Latest save time: `2026-08-05 15:46:41`
+- Storage note: 平台提示草稿保存在当前浏览器本地。
+- Browser handoff: 草稿箱页面保持打开，供用户直接检查。
