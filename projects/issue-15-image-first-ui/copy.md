@@ -27,3 +27,12 @@
 ## CTA（可选；明确省略时填写“无”）
 
 无
+
+
+## Platform draft payload
+
+- 标题: 先生成页面图，再让AI写代码
+- 正文: 使用本文件 `## Body` 的最终正文
+- 标签: #AI编程 #前端开发 #UI设计 #VibeCoding
+- 图片: `cards/output/xhs-01-cover.png`
+- 操作: 保存草稿，不正式发布

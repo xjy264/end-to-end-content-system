@@ -26,5 +26,5 @@
   - generation-log.md
   - qa.md
 - Failures: []
-- Next action: 等待用户在 PR 中审阅
-- Last verified at: 2026-08-05T14:51:27+07:00
+- Next action: 等待用户检查浏览器草稿和 PR
+- Last verified at: 2026-08-05T15:07:47+07:00

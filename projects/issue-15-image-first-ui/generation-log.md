@@ -23,3 +23,14 @@
 - Content commit: `4f1c99683a951d9c4f3fdc76b1eb9da585d5fa42`
 - Pull request: https://github.com/xjy264/end-to-end-content-system/pull/16
 - Verified at: 2026-08-05T14:51:27+07:00
+
+## Platform draft
+
+- Operation: 保存至小红书图文草稿箱，未正式发布
+- Image: `cards/output/xhs-01-cover.png`
+- Title: `先生成页面图，再让AI写代码`
+- Body and tags: `copy.md` 的最终载荷
+- Platform result: `保存成功`
+- Draft readback: 标题匹配，保存时间 `2026-08-05 15:06:46`
+- Storage note: 平台提示草稿保存在当前浏览器本地
+- Verified at: 2026-08-05T15:07:47+07:00
