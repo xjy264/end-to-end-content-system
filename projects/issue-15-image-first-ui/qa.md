@@ -42,11 +42,11 @@
 - [x] 卡片数量与计划一致
 - [x] 正式内容包位于 `projects/issue-15-image-first-ui/`
 - [x] 仓库中没有密钥、Cookie、私人来源或未许可素材
-- [ ] 所有正式文件已被 Git 跟踪
-- [ ] 远程任务分支包含当前核验提交
-- [ ] 已创建 base 为 `main` 的内容 PR
+- [x] 所有正式文件已被 Git 跟踪
+- [x] 远程任务分支包含当前核验提交
+- [x] 已创建 base 为 `main` 的内容 PR
 
 ## Current result
 
-- Status: `reviewing`
-- Pending: 完成提交、推送、PR 和远程回读验收。
+- Status: `ready`
+- Pending: 无；等待用户在 PR 中审阅。

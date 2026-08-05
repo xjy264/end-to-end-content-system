@@ -17,3 +17,9 @@
 - Preview grid: `cards/output/preview-grid.png`，720 × 960
 - Mobile preview: `cards/output/preview-mobile.png`，360 × 480
 - Visual inspection: 原尺寸与手机预览均已检查；主标题、两步标签和方向箭头清晰，无文字裁切。
+
+## Repository delivery
+
+- Content commit: `4f1c99683a951d9c4f3fdc76b1eb9da585d5fa42`
+- Pull request: https://github.com/xjy264/end-to-end-content-system/pull/16
+- Verified at: 2026-08-05T14:51:27+07:00

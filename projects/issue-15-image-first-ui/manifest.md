@@ -2,11 +2,11 @@
 
 - Issue: https://github.com/xjy264/end-to-end-content-system/issues/15
 - Branch: codex/15-image-first-ui
-- PR URL:
-- Remote commit:
-- Repository status: untracked cover sample
-- Status: reviewing
-- Current stage: repository delivery
+- PR URL: https://github.com/xjy264/end-to-end-content-system/pull/16
+- Remote commit: 4f1c99683a951d9c4f3fdc76b1eb9da585d5fa42
+- Repository status: tracked and pushed
+- Status: ready
+- Current stage: complete
 - Models:
   - text: 未调用；Codex 依据已确认正文和来源完成整理
   - image: 未调用；封面采用确定性 HTML/CSS
@@ -26,5 +26,5 @@
   - generation-log.md
   - qa.md
 - Failures: []
-- Next action: 提交、推送并创建 PR
-- Last verified at: 2026-08-05
+- Next action: 等待用户在 PR 中审阅
+- Last verified at: 2026-08-05T14:51:27+07:00
