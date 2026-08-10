@@ -34,11 +34,11 @@
 - [x] 必需 Markdown 与 HTML 源文件已创建；
 - [x] 最终 PNG 与手机预览已进入内容包；
 - [x] `manifest.md` 状态与实际结果一致；
-- [ ] 必需文件已被 Git 跟踪；
-- [ ] 远程任务分支包含当前核验提交；
-- [ ] 内容 PR 已创建，base 为 `main`；
+- [x] 必需文件已被 Git 跟踪；
+- [x] 远程任务分支包含当前核验提交；
+- [x] 内容 PR [#21](https://github.com/xjy264/end-to-end-content-system/pull/21) 已创建，base 为 `main`；
 - [x] 仓库中未写入密钥、Cookie 或外部受保护素材。
 
 ## 当前结论
 
-状态：`partial`。封面已确认，等待完成远程分支与 PR 交付。
+状态：`ready`。内容包、远程任务分支与 PR 已完成，等待 Review；不执行合并或平台发布。
