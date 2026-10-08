@@ -18,3 +18,10 @@
 - 平台草稿保存：待首张封面确认后执行。
 
 - 布局核对：body 使用相对定位固定页脚参考画布，普通窗口预览与截图尺寸一致；各文字区块无重叠。
+
+## 样稿交付
+
+- 内容提交：1f6eb02f48ea57ab475f8a83c8397bcbb7a85ca1，已推送 origin/codex/22-kimi-browser-skill。
+- Draft PR：https://github.com/xjy264/end-to-end-content-system/pull/27。
+- 当前等待首张封面确认；同批次其余四篇已建立 Issue #23、#24、#25、#26，正文与交付结构已记录，尚未制作封面。
+- 本次不把源帖中的教程当作复现任务，不上传平台。
