@@ -1,0 +1,51 @@
+{
+  "width": 1080,
+  "height": 1440,
+  "blocks": [
+    {
+      "selector": "H1",
+      "x": 68,
+      "y": 190,
+      "width": 944,
+      "height": 390.109375,
+      "top": 190,
+      "right": 1012,
+      "bottom": 580.109375,
+      "left": 68
+    },
+    {
+      "selector": "sub",
+      "x": 68,
+      "y": 604.109375,
+      "width": 944,
+      "height": 54.390625,
+      "top": 604.109375,
+      "right": 1012,
+      "bottom": 658.5,
+      "left": 68
+    },
+    {
+      "selector": "sample",
+      "x": 68,
+      "y": 706.5,
+      "width": 944,
+      "height": 527.1875,
+      "top": 706.5,
+      "right": 1012,
+      "bottom": 1233.6875,
+      "left": 68
+    },
+    {
+      "selector": "flow",
+      "x": 68,
+      "y": 1273.6875,
+      "width": 944,
+      "height": 45,
+      "top": 1273.6875,
+      "right": 1012,
+      "bottom": 1318.6875,
+      "left": 68
+    }
+  ],
+  "overflow": []
+}
