@@ -1,0 +1,17 @@
+{
+  "issue": 23,
+  "title": "AI只会说空话？让它设计实验",
+  "titleExact": true,
+  "captionExact": true,
+  "sourceImageSha256": "9feed7b9584c38348c06afbc445ea4f807ac385e897c35f8977fee6f9557e220",
+  "imageCount": 1,
+  "platformImageComparison": {
+    "width": 1080,
+    "height": 1440,
+    "meanDifference": 0,
+    "fractionAbove30": 0
+  },
+  "reopened": true,
+  "verifiedAt": "2026-10-09T12:17:54.400248",
+  "published": false
+}
