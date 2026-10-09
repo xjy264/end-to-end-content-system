@@ -1,0 +1,17 @@
+{
+  "issue": 24,
+  "title": "好用的AI指令，别埋在聊天里",
+  "titleExact": true,
+  "captionExact": true,
+  "sourceImageSha256": "1a1155a3478b1879b147e710d5fd9dcae9bd9707cb2ce379213f490d2fac8dfc",
+  "imageCount": 1,
+  "platformImageComparison": {
+    "width": 1080,
+    "height": 1440,
+    "meanDifference": 0,
+    "fractionAbove30": 0
+  },
+  "reopened": true,
+  "verifiedAt": "2026-10-09T12:18:00.980950",
+  "published": false
+}
