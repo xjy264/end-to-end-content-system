@@ -1,0 +1,17 @@
+{
+  "issue": 25,
+  "title": "收藏完资料，让AI帮你用起来",
+  "titleExact": true,
+  "captionExact": true,
+  "sourceImageSha256": "6e1a83be8f18f95032909a8d9e1ce473faafc27c542923b88228e1e5cc800729",
+  "imageCount": 1,
+  "platformImageComparison": {
+    "width": 1080,
+    "height": 1440,
+    "meanDifference": 0,
+    "fractionAbove30": 0
+  },
+  "reopened": true,
+  "verifiedAt": "2026-10-09T12:18:07.520032",
+  "published": false
+}
