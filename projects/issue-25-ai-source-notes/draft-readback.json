@@ -3,7 +3,7 @@
   "title": "收藏完资料，让AI帮你用起来",
   "titleExact": true,
   "captionExact": true,
-  "sourceImageSha256": "6e1a83be8f18f95032909a8d9e1ce473faafc27c542923b88228e1e5cc800729",
+  "sourceImageSha256": "289b3486d5486ee2c16b8e5e0049ca241979a48ff543dae705790f7f505283f7",
   "imageCount": 1,
   "platformImageComparison": {
     "width": 1080,
@@ -12,6 +12,10 @@
     "fractionAbove30": 0
   },
   "reopened": true,
-  "verifiedAt": "2026-10-09T12:18:07.520032",
-  "published": false
+  "verifiedAt": "2026-10-09T12:55:38.486320",
+  "published": false,
+  "coverRevision": 2,
+  "existingDraftUpdated": true,
+  "batchDraftCountBefore": 5,
+  "batchDraftCountAfter": 5
 }
