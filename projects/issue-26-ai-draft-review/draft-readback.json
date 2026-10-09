@@ -1,0 +1,21 @@
+{
+  "issue": 26,
+  "title": "AI任务分两轮，先起草再查漏",
+  "titleExact": true,
+  "captionExact": true,
+  "sourceImageSha256": "66ab1ab9eb771dff11985b96579a1d5a17f78c46729d8c491a9ea5e30b374adb",
+  "imageCount": 1,
+  "platformImageComparison": {
+    "width": 1080,
+    "height": 1440,
+    "meanDifference": 0,
+    "fractionAbove30": 0
+  },
+  "reopened": true,
+  "verifiedAt": "2026-10-09T12:55:45.284893",
+  "published": false,
+  "coverRevision": 2,
+  "existingDraftUpdated": true,
+  "batchDraftCountBefore": 5,
+  "batchDraftCountAfter": 5
+}
